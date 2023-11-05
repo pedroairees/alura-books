@@ -7,6 +7,6 @@
 
 <h2>Tablet 1024px</h2>
 
-
+![tablet](https://github.com/pedroairees/alura-books/assets/110794196/88b3f116-d0a8-4002-b96b-f0fa2fd5a766)
 
 </div>
